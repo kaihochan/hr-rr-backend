@@ -1,4 +1,4 @@
-# HR and RR Exchange Middleware Minimal Starter
+# Express.js Minimal Starter
 
 Middleware server for mobile application accessing MATLAB data.
 

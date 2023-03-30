@@ -13,6 +13,6 @@ router.post('/', function(req, res) {
   hr = req.body.hr;
   rr = req.body.rr;
   res.end();
-})
+});
 
 module.exports = router;
